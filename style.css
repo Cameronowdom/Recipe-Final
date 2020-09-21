@@ -1,0 +1,50 @@
+body{
+    background-color: antiquewhite;
+    border: 20px red; 
+}
+h1{
+    font-family: serif;
+    text-align: center;
+    font-size: 60pt;
+}
+h2{
+    font-family: serif;
+    text-align: center;
+    font-size: 25pt;
+    margin-left: 115px;
+    width: 1400px;
+    
+}
+p{
+    font-family: serif;
+    text-align: center;
+    font-size: 18pt;
+    width: 800px;
+    margin-left: 430px;
+    
+}
+img{
+    width: 400px;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+ul{
+    margin-left: 600px;
+    font-size: 30px;
+    background-color: floralwhite;
+    border: 1px solid black;
+    width: 450px;
+}
+.content{
+    display:flex;
+    flex-flow: row;
+    width: 800px;
+}
+ol{
+    width: 1400px;
+    margin-left: 115px;
+    font-size: 30px;
+    background-color: floralwhite;
+    border: 1px solid black;
+}
